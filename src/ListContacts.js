@@ -19,7 +19,6 @@ class ListContacts extends Component {
                         </div>
                         <button onClick={() => this.props.onDeleteContact(contact)} className='contact-remove'/>
                     </li>
-
                 ))}
             </ol>
         )
