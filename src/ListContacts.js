@@ -22,10 +22,7 @@ class ListContacts extends Component {
 
                 ))}
             </ol>
-
         )
-
-    }
-
+  }
 }
 export default ListContacts;
